@@ -4,6 +4,6 @@ He desarrollado una interfaz gráfica para el uso del drone Dagger que facilita 
 
 ## DATO A TENER EN CUENTA 
 
-* hacaer que sea una aplicacion de escritorio
-* comunicacion por medio de MAVSDK 
+* Que sea una aplicacion de escritorio
+* Comunicacion por medio de MAVSDK 
   
