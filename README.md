@@ -1,42 +1,9 @@
-# Quasar App (consumoapis)
+## INTERFAZ GRAFICA
 
-A Quasar Project
+He desarrollado una interfaz gráfica para el uso del drone Dagger que facilita enormemente el control y la supervisión de sus funciones. Esta interfaz me permite tener un control preciso sobre el vuelo del drone, así como acceso a diversas funciones como la navegación, el monitoreo del estado de la batería y la señal, y la visualización en tiempo real de imágenes o vídeos capturados.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+## DATO A TENER EN CUENTA 
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
-"# Interfaz-grafica" 
+* hacaer que sea una aplicacion de escritorio
+* comunicacion por medio de MAVSDK 
+  
